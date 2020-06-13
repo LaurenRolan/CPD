@@ -22,7 +22,7 @@ int main()
 
     if(!stream)
     {
-        printf("Deu merda.\n");
+        printf("Deu merda.\n"); //Eu estava no terceiro semestre. Não tinha ideia do que estava fazendo.
     }
 
     char line[1024];
@@ -30,7 +30,6 @@ int main()
     {
         char* tmp = strdup(line);
         printf("Field 3 would be %s\n", getfield(tmp, 3));
-        // NOTE strtok clobbers tmp
         free(tmp);
     }
 }
