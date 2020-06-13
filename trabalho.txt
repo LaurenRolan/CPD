@@ -1,0 +1,28 @@
+
+    Implementar os seguintes algoritmos:
+        insertionsort com busca linear
+        insertionsort com busca binária
+        shellsort
+        bubblesort
+        quicksort
+        mergesort
+        heapsort
+    Para todos os algoritmos, considerando um array ordenado de números inteiros positivos (do menor para o maior), contabilizar a quantidade de comparações e trocas, além do tempo de execução, para os seguintes tamanhos de array:
+        1000 elementos
+        10000 elementos
+        100000 elementos
+        1000000 elementos
+        10000000 elementos
+    Para todos os algoritmos, considerando um array inversamente ordenado de números inteiros positivos (do maior para o menor), contabilizar a quantidade de comparações e trocas, além do tempo de execução, para os seguintes tamanhos de array:
+        1000 elementos
+        10000 elementos
+        100000 elementos
+        1000000 elementos
+        10000000 elementos
+    Para todos os algoritmos, considerando o array randômico disponibilizado pelo professor (o link para o mesmo encontra-se mais adiante nesta página), contabilizar a quantidade de comparações e trocas, além do tempo de execução, para os seguintes tamanhos de array:
+        1000 elementos
+        10000 elementos
+        100000 elementos
+        1000000 elementos
+        10000000 elementos
+    Encaminhar os códigos-fonte (não encaminhe os executáveis) e os resultados, conforme instruções abaixo (item "formato dos resultados").

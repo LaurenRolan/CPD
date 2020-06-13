@@ -1,0 +1,11 @@
+Aluna Lauren Silva Rolan Sampaio
+Nº da matrícula: 00262517
+
+*Arrays organizados
+Os algoritmos usam o mesmo array nos três casos (randômico, organizado e inversamente organizado). Assim sendo,
+caso um dos processos seja interrompido por exceder o tempo, o array será organizado por MergeSort, para que 
+possa ser utilizado no processo seguinte.
+
+*Estouro de tempo
+Caso haja estouro de tempo, os campos trocas, comparações e tempo serão substituídos por hífen (-). O array então
+será reorganizado pelo motivo descrito acima.
